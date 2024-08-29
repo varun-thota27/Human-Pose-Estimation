@@ -19,9 +19,9 @@ Webcam (for capturing real-time video)
 
 ![Hi](HiRighthand.png)
 
-![Hi](Hilefthand.png)
+![Hi](HiLefthand.png)
 
-![hello](hello.png)
+![hello](Hello.png)
 
 # conlcusion
 In conclusion, the human pose estimation and detection project successfully developed and evaluated a robust system capable of real-time detection and tracking of key body joints from video input. The project showcased advancements in computer vision technologies, contributing to applications that require precise human pose analysis. Moving forward, continued research and development efforts will focus on enhancing system capabilities, addressing challenges, and exploring new applications to further advance the field of human-computer interaction and beyond.
